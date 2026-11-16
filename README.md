@@ -11,11 +11,11 @@ and strikethrough, so pathological backtracking stays out of the hot path.
 `/input/cases.json`, renders every case independently with `parse()`, and
 writes the resulting HTML strings to `/output/html.json`.
 
-![markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)
-![rank](https://make.fun/badge/markdown-render-speed-02/yudi04cod/aica-markdown-rush/rank.svg)
-![reward](https://make.fun/badge/markdown-render-speed-02/yudi04cod/aica-markdown-rush/reward.svg)
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/yudi04cod/aica-markdown-rush/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/yudi04cod/aica-markdown-rush/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
 
-Competition: https://make.fun/competition/markdown-render-speed-02
+Competition: https://make.fun/bounty/markdown-render-speed-02
 
 Referral code: 38m33ybw
 
